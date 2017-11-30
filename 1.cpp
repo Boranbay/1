@@ -14,5 +14,5 @@ int main()
 	cin >> name;
 	cout << "Salem ," << name << "!";
 	getch();
-    return 0;
+    	return 0;
 }
