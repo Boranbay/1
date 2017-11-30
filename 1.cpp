@@ -1,4 +1,4 @@
-// MS Visual 2017
+// MS Visual Studio 2017
 
 #include "stdafx.h"
 #include <iostream>
